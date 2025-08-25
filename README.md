@@ -25,6 +25,12 @@ I aimed to answer the following questions:
 5. Which age group contributes the most to sales?
 ...and many more such questions.
 
+   
+### Final Dshboard:- 
+
+<img width="928" height="286" alt="image" src="https://github.com/user-attachments/assets/3602ed57-5915-4810-9cc4-72cbadfb6419" />
+
+
 ### Conclusion:-
 
 Now the final conclusion to improve "Vrinda Stote Sales" is target "Women" customers of age geroup "(30-49)" years

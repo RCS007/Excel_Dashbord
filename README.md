@@ -25,8 +25,6 @@ I aimed to answer the following questions:
 5. Which age group contributes the most to sales?
 ...and many more such questions.
 
-#### I hope this can help many of you with Excel data analysis.
-
 ### Conclusion:-
 
 Now the final conclusion to improve "Vrinda Stote Sales" is target "Women" customers of age geroup "(30-49)" years
@@ -34,3 +32,5 @@ lives in states like "Maharastra","Karnataka", and "Uttar Pradesh" by showing ad
 "Amazon","Flipkart", and "Myntra".
 
 #### GitHub Project Link:- 
+
+#### I hope this can help many of you with Excel data analysis.

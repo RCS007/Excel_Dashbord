@@ -31,6 +31,6 @@ Now the final conclusion to improve "Vrinda Stote Sales" is target "Women" custo
 lives in states like "Maharastra","Karnataka", and "Uttar Pradesh" by showing ads/offers/cupons availabel on 
 "Amazon","Flipkart", and "Myntra".
 
-#### GitHub Project Link:- 
+#### GitHub Project Link:- https://github.com/RCS007/Excel_Dashbord/tree/main
 
 #### I hope this can help many of you with Excel data analysis.
